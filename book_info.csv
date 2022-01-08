@@ -1,0 +1,9 @@
+Book_id,Name,Price,Author,publishingdate,Copies,Status
+101,dbms,1000,Navathe,14,23/06/2017,6,Available
+102,C++,300,E. Balaguruswamy,21/08/2016,6,Available
+103,Starting with DJANGO,500,Sanjeev,11/12/2012,9,Available
+104,JAVA,300,E. Balaguruswamy,12/12/2018,0,UnAvailable
+105,physics,1000,hcverma,11/11/2011,8,Available
+107,C,12,asdfg,11/11/2011,15,Available
+107,OS,120,ASDF,11/11/2021,12,Available
+108,book1,100,author1,11/12/1990,12,Available

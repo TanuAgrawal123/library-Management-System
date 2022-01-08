@@ -1,0 +1,15 @@
+NAME,Bid,AUTHOR,ISSUED_DATE,RETURNING DATE, RETUNED ON, FINE
+tina,102,E. Balaguruswamy,2021-08-28,2021-09-12,not returned,0
+tina,104,E. Balaguruswamy,2021-08-28,2021-09-12,not returned,0
+tina,102,E. Balaguruswamy,2021-08-28,2021-09-12,not returned,0
+tina,101,Navathe,2021-08-28,2021-09-12,2021-09-13,50
+preeti,101,Navathe,2021-08-28,2021-09-12,2021-08-30,0
+sanskar,101,Navathe,2021-08-28,2021-09-12,2021-08-30,0,
+kajal,101,Navathe,2021-08-14,2021-08-29,2021-08-30,50
+kajal,102,E. Balaguruswamy,2021-08-30,2021-09-14,2021-08-30,0
+kirti,102,E. Balaguruswamy,2021-08-30,2021-09-14,2021-08-30,0
+tanu,102,E. Balaguruswamy,2021-08-30,2021-09-14,not returned,0
+tanu,104,E. Balaguruswamy,2021-08-30,2021-09-14,not returned,0
+tanu,105,hcverma,2021-08-30,2021-09-14,2021-08-30,0
+asd,103,Sanjeev,2021-09-13,2021-09-28,2021-09-13,0
+tanuag,105,hcverma,2022-01-08,2022-01-23,2022-01-08,0
